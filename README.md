@@ -26,7 +26,9 @@ To explore the project:
 
 Based on the analysis, we provide recommendations for optimizing pizza sales strategies and conclude with key takeaways.
 
-## Basic:
+##  specific queries :
+
+**Basic:**
 Retrieve the total number of orders placed.
 
 Calculate the total revenue generated from pizza sales.
@@ -38,7 +40,7 @@ Identify the most common pizza size ordered.
 List the top 5 most ordered pizza types along with their quantities.
 
 
-## Intermediate:
+**Intermediate:**
 Join the necessary tables to find the total quantity of each pizza category ordered.
 
 Determine the distribution of orders by hour of the day.
@@ -49,7 +51,7 @@ Group the orders by date and calculate the average number of pizzas ordered per 
 
 Determine the top 3 most ordered pizza types based on revenue.
 
-## Advanced:
+**Advanced:**
 Calculate the percentage contribution of each pizza type to total revenue.
 
 Analyze the cumulative revenue generated over time.
