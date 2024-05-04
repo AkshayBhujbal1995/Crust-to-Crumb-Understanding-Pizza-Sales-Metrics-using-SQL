@@ -10,8 +10,8 @@ Welcome to the Pizza Sales Analytics project! This repository contains an in-dep
 
 ## Contents
 
-- `queries.sql`: SQL queries used for data analysis, categorized into basic, intermediate, and advanced levels.
-- `presentation.pdf`: Presentation slides summarizing the project findings, recommendations, and conclusions.
+- `Pizza Sales Analytics SQL script.sql`: SQL queries used for data analysis, categorized into basic, intermediate, and advanced levels. 
+- `Pizza.pdf`: Presentation slides summarizing the project findings, recommendations, and conclusions.
 - `data/`: Directory containing the datasets used in the analysis.
 
 ## Getting Started
